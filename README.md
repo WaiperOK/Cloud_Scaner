@@ -1,6 +1,6 @@
 # CloudScanner
 
-CloudScanner is a Burp Suite extension designed for identifying vulnerabilities in web applications. It includes various scanning modules to detect common security issues like XSS, SQL injection, CRLF injection, and more.
+CloudScanner is a Burp Suite extension designed for identifying vulnerabilities in web applications. It includes various scanning modules to detect common security issues like XSS, SQL injection, CRLF injection, PHP injection and more.
 
 ## Features
 
