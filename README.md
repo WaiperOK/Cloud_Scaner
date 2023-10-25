@@ -11,6 +11,7 @@ CloudScanner is a Burp Suite extension designed for identifying vulnerabilities 
 - Monitoring website changes and alerting on frequent code alterations
 - Analysis of response headers for security configurations
 - Checks for insecure file downloads
+- Anomaly Analysis
 
 ## Installation
 
@@ -40,7 +41,7 @@ This project is licensed under the [MIT License] (Copyright (c) [2023] [Waiper])
 
 # CloudScanner
 
-CloudScanner - это расширение для Burp Suite, разработанное для выявления уязвимостей в веб-приложениях. Оно включает в себя различные модули сканирования для обнаружения распространенных уязвимостей, таких как XSS, SQL-инъекции, CRLF-инъекции и других.
+CloudScanner - это расширение для Burp Suite, разработанное для выявления уязвимостей в веб-приложениях. Оно включает в себя различные модули сканирования для обнаружения распространенных уязвимостей, таких как XSS, SQL-инъекции, CRLF-инъекции, PHP-инъекции и других.
 
 ## Возможности
 
@@ -51,6 +52,7 @@ CloudScanner - это расширение для Burp Suite, разработа
 - Мониторинг изменений веб-сайта и предупреждение о частых изменениях в коде
 - Анализ заголовков ответов на предмет настроек безопасности
 - Проверка на небезопасные загрузки файлов
+- Анализ Аномалий
 
 ## Установка
 
